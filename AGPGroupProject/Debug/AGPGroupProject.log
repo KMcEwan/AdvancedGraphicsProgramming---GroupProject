@@ -1,0 +1,32 @@
+﻿  main.cpp
+c:\users\k_mce\documents\uni\3rd year\agp\app\groupprojectagp\main.cpp(308): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\groupprojectagp\main.cpp(322): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\groupprojectagp\main.cpp(327): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\groupprojectagp\main.cpp(332): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\groupprojectagp\main.cpp(337): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\groupprojectagp\main.cpp(346): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  AGPGroupProject.vcxproj -> C:\Users\k_mce\Documents\Uni\3rd Year\AGP\App\GroupProjectAGP\Debug\AGPGroupProject.exe
